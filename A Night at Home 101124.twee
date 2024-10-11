@@ -844,13 +844,12 @@ You rescued the trapped rats and faced your fears.
 :: pretty [header] {"position":"1700,100","size":"100,100"}
 (enchant:?link,
      (color: #bf360c ) +
-     (hover-style: (color:#8e24aa
-))
+     (hover-style: (color:#8e24aa))
  )
  
  
 (enchant:?page,
-     (font:"Tahoma ")
+	(font:"Tahoma, sans-serif")
 )
 
 
