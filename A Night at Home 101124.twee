@@ -849,7 +849,7 @@ You rescued the trapped rats and faced your fears.
  
  
 (enchant:?page,
-	(font:"Tahoma, sans-serif")
+	(font:"sans-serif")
 )
 
 
